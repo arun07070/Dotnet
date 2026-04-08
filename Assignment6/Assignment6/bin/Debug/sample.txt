@@ -1,4 +1,0 @@
-Hello
-Welcome
-This is C# File Handling
-End of File

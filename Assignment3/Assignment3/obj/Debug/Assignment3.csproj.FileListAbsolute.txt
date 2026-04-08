@@ -1,8 +1,0 @@
-C:\dotnet\c#\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
-C:\dotnet\c#\Assignment3\Assignment3\bin\Debug\Assignment3.exe
-C:\dotnet\c#\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
-C:\dotnet\c#\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
-C:\dotnet\c#\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
-C:\dotnet\c#\Assignment3\Assignment3\obj\Debug\Assignment3.exe
-C:\dotnet\c#\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
-C:\dotnet\c#\Assignment3\Assignment3\obj\Debug\Assignment3.exe.config
