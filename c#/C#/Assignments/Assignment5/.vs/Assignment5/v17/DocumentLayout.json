@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet\\c#\\Assignment5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C5225E-84A4-4CE9-99DD-3A3D82254051}|Assignment5\\Assignment5.csproj|c:\\dotnet\\c#\\assignment5\\assignment5\\indexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C5225E-84A4-4CE9-99DD-3A3D82254051}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\indexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C5225E-84A4-4CE9-99DD-3A3D82254051}|Assignment5\\Assignment5.csproj|c:\\dotnet\\c#\\assignment5\\assignment5\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C5225E-84A4-4CE9-99DD-3A3D82254051}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C5225E-84A4-4CE9-99DD-3A3D82254051}|Assignment5\\Assignment5.csproj|c:\\dotnet\\c#\\assignment5\\assignment5\\banking_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C5225E-84A4-4CE9-99DD-3A3D82254051}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\banking_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Indexer.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\Assignment5\\Assignment5\\Indexer.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Indexer.cs",
+              "ToolTip": "C:\\dotnet\\c#\\Assignment5\\Assignment5\\Indexer.cs",
+              "RelativeToolTip": "Assignment5\\Indexer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:44:59.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scholarship.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\Assignment5\\Assignment5\\Scholarship.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Scholarship.cs",
+              "ToolTip": "C:\\dotnet\\c#\\Assignment5\\Assignment5\\Scholarship.cs",
+              "RelativeToolTip": "Assignment5\\Scholarship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:40:20.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Banking_system.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\Assignment5\\Assignment5\\Banking_system.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Banking_system.cs",
+              "ToolTip": "C:\\dotnet\\c#\\Assignment5\\Assignment5\\Banking_system.cs",
+              "RelativeToolTip": "Assignment5\\Banking_system.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvxAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:35:41.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
