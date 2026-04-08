@@ -1,0 +1,7 @@
+C:\dotnet\Assignment2\assi2\assi2\bin\Debug\assi2.exe.config
+C:\dotnet\Assignment2\assi2\assi2\bin\Debug\assi2.exe
+C:\dotnet\Assignment2\assi2\assi2\bin\Debug\assi2.pdb
+C:\dotnet\Assignment2\assi2\assi2\obj\Debug\assi2.csproj.AssemblyReference.cache
+C:\dotnet\Assignment2\assi2\assi2\obj\Debug\assi2.csproj.CoreCompileInputs.cache
+C:\dotnet\Assignment2\assi2\assi2\obj\Debug\assi2.exe
+C:\dotnet\Assignment2\assi2\assi2\obj\Debug\assi2.pdb
