@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\dotnet\\c#\\C#\\Assessments\\CodeChallenge2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EFAB689-A7E7-4F5E-9F21-D0BB6F68F009}|CodeChallenge2\\CodeChallenge2.csproj|c:\\dotnet\\c#\\c#\\assessments\\codechallenge2\\codechallenge2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EFAB689-A7E7-4F5E-9F21-D0BB6F68F009}|CodeChallenge2\\CodeChallenge2.csproj|solutionrelative:codechallenge2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EFAB689-A7E7-4F5E-9F21-D0BB6F68F009}|CodeChallenge2\\CodeChallenge2.csproj|C:\\dotnet\\c#\\C#\\Assessments\\CodeChallenge2\\codechallenge2\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFAB689-A7E7-4F5E-9F21-D0BB6F68F009}|CodeChallenge2\\CodeChallenge2.csproj|solutionrelative:codechallenge2\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EFAB689-A7E7-4F5E-9F21-D0BB6F68F009}|CodeChallenge2\\CodeChallenge2.csproj|C:\\dotnet\\c#\\C#\\Assessments\\CodeChallenge2\\codechallenge2\\negative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EFAB689-A7E7-4F5E-9F21-D0BB6F68F009}|CodeChallenge2\\CodeChallenge2.csproj|solutionrelative:codechallenge2\\negative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EFAB689-A7E7-4F5E-9F21-D0BB6F68F009}|CodeChallenge2\\CodeChallenge2.csproj|C:\\dotnet\\c#\\C#\\Assessments\\CodeChallenge2\\codechallenge2\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EFAB689-A7E7-4F5E-9F21-D0BB6F68F009}|CodeChallenge2\\CodeChallenge2.csproj|solutionrelative:codechallenge2\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EFAB689-A7E7-4F5E-9F21-D0BB6F68F009}|CodeChallenge2\\CodeChallenge2.csproj|c:\\dotnet\\c#\\c#\\assessments\\codechallenge2\\codechallenge2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFAB689-A7E7-4F5E-9F21-D0BB6F68F009}|CodeChallenge2\\CodeChallenge2.csproj|solutionrelative:codechallenge2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EFAB689-A7E7-4F5E-9F21-D0BB6F68F009}|CodeChallenge2\\CodeChallenge2.csproj|C:\\dotnet\\c#\\C#\\Assessments\\CodeChallenge2\\codechallenge2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\CodeChallenge2\\CodeChallenge2\\Calculator.cs",
               "RelativeDocumentMoniker": "CodeChallenge2\\Calculator.cs",
               "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\CodeChallenge2\\CodeChallenge2\\Calculator.cs",
               "RelativeToolTip": "CodeChallenge2\\Calculator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T05:28:34.448Z",
               "EditorCaption": ""
@@ -49,21 +49,23 @@
               "RelativeDocumentMoniker": "CodeChallenge2\\Negative.cs",
               "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\CodeChallenge2\\CodeChallenge2\\Negative.cs",
               "RelativeToolTip": "CodeChallenge2\\Negative.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T05:25:27.308Z"
+              "WhenOpened": "2026-04-08T05:25:27.308Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Products.cs",
               "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\CodeChallenge2\\CodeChallenge2\\Products.cs",
               "RelativeDocumentMoniker": "CodeChallenge2\\Products.cs",
               "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\CodeChallenge2\\CodeChallenge2\\Products.cs",
               "RelativeToolTip": "CodeChallenge2\\Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwC0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T05:12:51.494Z"
+              "WhenOpened": "2026-04-08T05:12:51.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,9 +75,10 @@
               "RelativeDocumentMoniker": "CodeChallenge2\\Student.cs",
               "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\CodeChallenge2\\CodeChallenge2\\Student.cs",
               "RelativeToolTip": "CodeChallenge2\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T05:05:27.367Z"
+              "WhenOpened": "2026-04-08T05:05:27.367Z",
+              "EditorCaption": ""
             }
           ]
         }

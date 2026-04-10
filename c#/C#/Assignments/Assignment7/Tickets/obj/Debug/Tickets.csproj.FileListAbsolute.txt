@@ -1,0 +1,6 @@
+C:\dotnet\c#\C#\Assignments\Assignment7\Tickets\obj\Debug\Tickets.csproj.AssemblyReference.cache
+C:\dotnet\c#\C#\Assignments\Assignment7\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+C:\dotnet\c#\C#\Assignments\Assignment7\Tickets\bin\Debug\Tickets.dll
+C:\dotnet\c#\C#\Assignments\Assignment7\Tickets\bin\Debug\Tickets.pdb
+C:\dotnet\c#\C#\Assignments\Assignment7\Tickets\obj\Debug\Tickets.dll
+C:\dotnet\c#\C#\Assignments\Assignment7\Tickets\obj\Debug\Tickets.pdb
