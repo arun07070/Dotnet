@@ -1,0 +1,8 @@
+C:\dotnet\c#\C#\Assessments\Code Challenge 3\Code Challenge 3\bin\Debug\Code Challenge 3.exe.config
+C:\dotnet\c#\C#\Assessments\Code Challenge 3\Code Challenge 3\bin\Debug\Code Challenge 3.exe
+C:\dotnet\c#\C#\Assessments\Code Challenge 3\Code Challenge 3\bin\Debug\Code Challenge 3.pdb
+C:\dotnet\c#\C#\Assessments\Code Challenge 3\Code Challenge 3\obj\Debug\Code Challenge 3.csproj.AssemblyReference.cache
+C:\dotnet\c#\C#\Assessments\Code Challenge 3\Code Challenge 3\obj\Debug\Code Challenge 3.csproj.CoreCompileInputs.cache
+C:\dotnet\c#\C#\Assessments\Code Challenge 3\Code Challenge 3\obj\Debug\Code Challenge 3.exe
+C:\dotnet\c#\C#\Assessments\Code Challenge 3\Code Challenge 3\obj\Debug\Code Challenge 3.pdb
+C:\dotnet\c#\C#\Assessments\Code Challenge 3\Code Challenge 3\obj\Debug\Code Challenge 3.exe.config
