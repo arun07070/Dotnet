@@ -1,0 +1,8 @@
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\GenericList\bin\Debug\GenericList.exe.config
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\GenericList\bin\Debug\GenericList.exe
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\GenericList\bin\Debug\GenericList.pdb
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\GenericList\obj\Debug\GenericList.csproj.AssemblyReference.cache
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\GenericList\obj\Debug\GenericList.csproj.CoreCompileInputs.cache
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\GenericList\obj\Debug\GenericList.exe
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\GenericList\obj\Debug\GenericList.pdb
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\GenericList\obj\Debug\GenericList.exe.config

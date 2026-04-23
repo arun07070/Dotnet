@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48C5377C-8A53-43D1-AF7A-B023E19154CF}|GenericList\\GenericList.csproj|c:\\dotnet\\c#\\c#\\assessments\\code challenge 4\\genericlist\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C5377C-8A53-43D1-AF7A-B023E19154CF}|GenericList\\GenericList.csproj|solutionrelative:genericlist\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\factory method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\factory method\\report types\\tabular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\report types\\tabular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\factory method\\report types\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\report types\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\factory method\\report types\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\report types\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\factory method\\creators\\tabularcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\creators\\tabularcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\factory method\\creators\\summarycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\creators\\summarycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\factory method\\creators\\chartcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\creators\\chartcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\factory method\\creators\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\creators\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\factory method\\contracts\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35D460-DDA7-4548-91B9-C48A32EB3728}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\contracts\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B73716-7ED3-4390-8074-3D70B89047D7}|Code Challenge 4\\Code Challenge 4.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\code challenge 4\\unity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B73716-7ED3-4390-8074-3D70B89047D7}|Code Challenge 4\\Code Challenge 4.csproj|solutionrelative:code challenge 4\\unity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B73716-7ED3-4390-8074-3D70B89047D7}|Code Challenge 4\\Code Challenge 4.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\code challenge 4\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B73716-7ED3-4390-8074-3D70B89047D7}|Code Challenge 4\\Code Challenge 4.csproj|solutionrelative:code challenge 4\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B73716-7ED3-4390-8074-3D70B89047D7}|Code Challenge 4\\Code Challenge 4.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\code challenge 4\\concrete\\distanceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B73716-7ED3-4390-8074-3D70B89047D7}|Code Challenge 4\\Code Challenge 4.csproj|solutionrelative:code challenge 4\\concrete\\distanceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B73716-7ED3-4390-8074-3D70B89047D7}|Code Challenge 4\\Code Challenge 4.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\code challenge 4\\bl\\distancebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B73716-7ED3-4390-8074-3D70B89047D7}|Code Challenge 4\\Code Challenge 4.csproj|solutionrelative:code challenge 4\\bl\\distancebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B73716-7ED3-4390-8074-3D70B89047D7}|Code Challenge 4\\Code Challenge 4.csproj|C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\code challenge 4\\abstract\\idistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B73716-7ED3-4390-8074-3D70B89047D7}|Code Challenge 4\\Code Challenge 4.csproj|solutionrelative:code challenge 4\\abstract\\idistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChartCreator.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Creators\\ChartCreator.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Creators\\ChartCreator.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Creators\\ChartCreator.cs",
+              "RelativeToolTip": "Factory Method\\Creators\\ChartCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:02:25.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SummaryCreator.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Creators\\SummaryCreator.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Creators\\SummaryCreator.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Creators\\SummaryCreator.cs",
+              "RelativeToolTip": "Factory Method\\Creators\\SummaryCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:03:08.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TabularCreator.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Creators\\TabularCreator.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Creators\\TabularCreator.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Creators\\TabularCreator.cs",
+              "RelativeToolTip": "Factory Method\\Creators\\TabularCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:02:53.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chart.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Report Types\\Chart.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Report Types\\Chart.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Report Types\\Chart.cs",
+              "RelativeToolTip": "Factory Method\\Report Types\\Chart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:59:21.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Summary.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Report Types\\Summary.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Report Types\\Summary.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Report Types\\Summary.cs",
+              "RelativeToolTip": "Factory Method\\Report Types\\Summary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:59:51.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tabular.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Report Types\\Tabular.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Report Types\\Tabular.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Report Types\\Tabular.cs",
+              "RelativeToolTip": "Factory Method\\Report Types\\Tabular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:59:38.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Program.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Program.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Program.cs",
+              "RelativeToolTip": "Factory Method\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:52:29.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LINQ.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\GenericList\\LINQ.cs",
+              "RelativeDocumentMoniker": "GenericList\\LINQ.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\GenericList\\LINQ.cs",
+              "RelativeToolTip": "GenericList\\LINQ.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:54:12.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Creators\\Base.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Creators\\Base.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Creators\\Base.cs",
+              "RelativeToolTip": "Factory Method\\Creators\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:00:57.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReport.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Contracts\\IReport.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Contracts\\IReport.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Factory Method\\Contracts\\IReport.cs",
+              "RelativeToolTip": "Factory Method\\Contracts\\IReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:57:29.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Unity.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Code Challenge 4\\Unity.cs",
+              "RelativeDocumentMoniker": "Code Challenge 4\\Unity.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Code Challenge 4\\Unity.cs",
+              "RelativeToolTip": "Code Challenge 4\\Unity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:39:06.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Distance.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Code Challenge 4\\Distance.cs",
+              "RelativeDocumentMoniker": "Code Challenge 4\\Distance.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Code Challenge 4\\Distance.cs",
+              "RelativeToolTip": "Code Challenge 4\\Distance.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:30:37.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DistanceClass.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Code Challenge 4\\Concrete\\DistanceClass.cs",
+              "RelativeDocumentMoniker": "Code Challenge 4\\Concrete\\DistanceClass.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Code Challenge 4\\Concrete\\DistanceClass.cs",
+              "RelativeToolTip": "Code Challenge 4\\Concrete\\DistanceClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:38:16.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DistanceBL.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Code Challenge 4\\BL\\DistanceBL.cs",
+              "RelativeDocumentMoniker": "Code Challenge 4\\BL\\DistanceBL.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Code Challenge 4\\BL\\DistanceBL.cs",
+              "RelativeToolTip": "Code Challenge 4\\BL\\DistanceBL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:36:54.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDistance.cs",
+              "DocumentMoniker": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Code Challenge 4\\Abstract\\IDistance.cs",
+              "RelativeDocumentMoniker": "Code Challenge 4\\Abstract\\IDistance.cs",
+              "ToolTip": "C:\\dotnet\\c#\\C#\\Assessments\\Code Challenge 4\\Code Challenge 4\\Abstract\\IDistance.cs",
+              "RelativeToolTip": "Code Challenge 4\\Abstract\\IDistance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:36:25.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

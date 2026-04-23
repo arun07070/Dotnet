@@ -1,0 +1,7 @@
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Factory Method\bin\Debug\Factory Method.exe.config
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Factory Method\bin\Debug\Factory Method.exe
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Factory Method\bin\Debug\Factory Method.pdb
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Factory Method\obj\Debug\Factory Method.csproj.AssemblyReference.cache
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Factory Method\obj\Debug\Factory Method.csproj.CoreCompileInputs.cache
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Factory Method\obj\Debug\Factory Method.exe
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Factory Method\obj\Debug\Factory Method.pdb

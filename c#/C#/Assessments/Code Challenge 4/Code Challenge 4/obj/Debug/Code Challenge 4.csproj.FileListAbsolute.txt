@@ -1,0 +1,17 @@
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\bin\Debug\Code Challenge 4.exe.config
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\bin\Debug\Code Challenge 4.exe
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\bin\Debug\Code Challenge 4.pdb
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\obj\Debug\Code Challenge 4.csproj.AssemblyReference.cache
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\obj\Debug\Code Challenge 4.csproj.CoreCompileInputs.cache
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\obj\Debug\Code Challenge 4.exe
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\obj\Debug\Code Challenge 4.pdb
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\bin\Debug\Unity.Abstractions.dll
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\bin\Debug\Unity.Container.dll
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\bin\Debug\Unity.Abstractions.pdb
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\bin\Debug\Unity.Container.pdb
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\obj\Debug\Code Challenge 4.exe.config
+C:\dotnet\c#\C#\Assessments\Code Challenge 4\Code Challenge 4\obj\Debug\Code Cha.3DFEA246.Up2Date
