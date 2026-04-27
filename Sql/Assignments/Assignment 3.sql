@@ -1,0 +1,103 @@
+CREATE DATABASE Assignment3;
+USE  Assignment3;
+
+CREATE TABLE DEPT (
+    deptno INT PRIMARY KEY,
+    dname VARCHAR(50),
+    loc VARCHAR(50)
+);
+CREATE TABLE EMP (
+    empno INT PRIMARY KEY,
+    ename VARCHAR(50),
+    job VARCHAR(50),
+    mgr INT NULL,
+    hiredate DATE,
+    sal DECIMAL(10,2),
+    comm DECIMAL(10,2) NULL,
+    deptno INT,
+    FOREIGN KEY (deptno) REFERENCES DEPT(deptno)
+);
+
+INSERT INTO DEPT VALUES
+(10, 'ACCOUNTING', 'NEW YORK'),
+(20, 'RESEARCH', 'DALLAS'),
+(30, 'SALES', 'CHICAGO'),
+(40, 'OPERATIONS', 'BOSTON');
+INSERT INTO EMP VALUES
+(7369, 'SMITH', 'CLERK', 7902, '1980-12-17', 800, NULL, 20),
+(7499, 'ALLEN', 'SALESMAN', 7698, '1981-02-20', 1600, 300, 30),
+(7521, 'WARD', 'SALESMAN', 7698, '1981-02-22', 1250, 500, 30),
+(7566, 'JONES', 'MANAGER', 7839, '1981-04-02', 2975, NULL, 20),
+(7654, 'MARTIN', 'SALESMAN', 7698, '1981-09-28', 1250, 1400, 30),
+(7698, 'BLAKE', 'MANAGER', 7839, '1981-05-01', 2850, NULL, 30),
+(7782, 'CLARK', 'MANAGER', 7839, '1981-06-09', 2450, NULL, 10),
+(7788, 'SCOTT', 'ANALYST', 7566, '1987-04-19', 3000, NULL, 20),
+(7839, 'KING', 'PRESIDENT', NULL, '1981-11-17', 5000, NULL, 10),
+(7844, 'TURNER', 'SALESMAN', 7698, '1981-09-08', 1500, 0, 30),
+(7876, 'ADAMS', 'CLERK', 7788, '1987-05-23', 1100, NULL, 20),
+(7900, 'JAMES', 'CLERK', 7698, '1981-12-03', 950, NULL, 30),
+(7902, 'FORD', 'ANALYST', 7566, '1981-12-03', 3000, NULL, 20),
+(7934, 'MILLER', 'CLERK', 7782, '1982-01-23', 1300, NULL, 10);
+
+SELECT * FROM EMP
+WHERE job = 'MANAGER';
+
+SELECT ename, sal FROM EMP
+WHERE sal > 1000;
+
+SELECT ename, sal FROM EMP
+WHERE ename <> 'JAMES';
+
+SELECT * FROM EMP
+WHERE ename LIKE 'S%';
+
+SELECT * FROM EMP
+WHERE ename LIKE '%A%';
+
+SELECT * FROM EMP
+WHERE ename LIKE '__L%';
+
+SELECT ename, sal/30 AS Daily_Salary FROM EMP
+WHERE ename = 'JONES';
+
+SELECT SUM(sal) AS Total_Monthly_Salary FROM EMP;
+
+SELECT AVG(sal * 12) AS Avg_Annual_Salary FROM EMP;
+
+SELECT ename, job, sal, deptno FROM EMP
+WHERE deptno = 30
+  AND job <> 'SALESMAN';
+
+SELECT DISTINCT deptno FROM EMP;
+
+SELECT ename AS Employee, sal AS [Monthly Salary] FROM EMP
+WHERE sal > 1500
+  AND deptno IN (10, 30);
+
+SELECT ename, job, sal FROM EMP
+WHERE job IN ('MANAGER', 'ANALYST')
+  AND sal NOT IN (1000, 3000, 5000);
+
+SELECT ename, sal, comm FROM EMP
+WHERE comm IS NOT NULL
+  AND comm > sal * 1.10;
+
+SELECT ename FROM EMP
+WHERE ename LIKE '%L%L%'
+  AND (deptno = 30 OR mgr = 7782);
+
+SELECT ename,
+       DATEDIFF(YEAR, hiredate, GETDATE()) AS Experience_Years
+FROM EMP
+WHERE DATEDIFF(YEAR, hiredate, GETDATE()) BETWEEN 30 AND 40;
+SELECT COUNT(*) AS Total_Employees FROM EMP
+WHERE DATEDIFF(YEAR, hiredate, GETDATE()) BETWEEN 30 AND 40;
+
+SELECT d.dname, e.ename FROM DEPT d
+JOIN EMP e ON d.deptno = e.deptno
+ORDER BY d.dname ASC, e.ename DESC;
+
+SELECT ename,
+       DATEDIFF(YEAR, hiredate, GETDATE()) AS Experience_Years
+FROM EMP
+WHERE ename = 'MILLER';
