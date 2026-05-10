@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>JavaScript Assignment</title>
+</head>
+<body>
+<script>
+    // 1. Calculate Area of Triangle
+
+    let edgeA = 5,
+        edgeB = 6,
+        edgeC = 7;
+    let halfValue =
+        (edgeA + edgeB + edgeC) / 2;
+    let areaOutput =
+        Math.sqrt(
+            halfValue *
+            (halfValue - edgeA) *
+            (halfValue - edgeB) *
+            (halfValue - edgeC)
+        );
+    console.log("Triangle Area : " + areaOutput);
+
+    // 2. Display Star Pattern
+
+    console.log("Star Pattern");
+    for (let outerLoop = 1; outerLoop <= 5; outerLoop++) {
+        let starText = "";
+        for (let innerLoop = 1; innerLoop <= outerLoop; innerLoop++) {
+            starText += "* ";
+        }
+        console.log(starText);
+    }
+
+    // 3. Check Leap Year
+
+    let selectedYear = 2028;
+    if ((selectedYear % 4 == 0 && selectedYear % 100 != 0) ||
+        (selectedYear % 400 == 0)) {
+        console.log(selectedYear + " is a Leap Year");
+    }
+    else {
+        console.log(selectedYear + " is not a Leap Year");
+    }
+
+    // 4. Find Days Left for Independence Day
+
+    let currentTime = new Date();
+    let thisYear = currentTime.getFullYear();
+    let independenceDate =
+        new Date(thisYear, 7, 15);
+    if (currentTime > independenceDate) {
+        independenceDate =
+            new Date(thisYear + 1, 7, 15);
+    }
+    let totalMilliseconds =
+        independenceDate - currentTime;
+    let pendingDays =
+        Math.ceil(
+            totalMilliseconds /
+            (1000 * 60 * 60 * 24)
+        );
+    console.log(
+        "Days Remaining for Independence Day : "
+        + pendingDays
+    );
+</script>
+</body>
+</html>
