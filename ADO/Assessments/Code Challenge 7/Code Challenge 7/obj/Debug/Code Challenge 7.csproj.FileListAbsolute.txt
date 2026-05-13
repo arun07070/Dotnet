@@ -1,0 +1,8 @@
+C:\dotnet\ADO\Assessments\Code Challenge 7\Code Challenge 7\bin\Debug\Code Challenge 7.exe.config
+C:\dotnet\ADO\Assessments\Code Challenge 7\Code Challenge 7\bin\Debug\Code Challenge 7.exe
+C:\dotnet\ADO\Assessments\Code Challenge 7\Code Challenge 7\bin\Debug\Code Challenge 7.pdb
+C:\dotnet\ADO\Assessments\Code Challenge 7\Code Challenge 7\obj\Debug\Code Challenge 7.csproj.AssemblyReference.cache
+C:\dotnet\ADO\Assessments\Code Challenge 7\Code Challenge 7\obj\Debug\Code Challenge 7.csproj.CoreCompileInputs.cache
+C:\dotnet\ADO\Assessments\Code Challenge 7\Code Challenge 7\obj\Debug\Code Challenge 7.exe
+C:\dotnet\ADO\Assessments\Code Challenge 7\Code Challenge 7\obj\Debug\Code Challenge 7.pdb
+C:\dotnet\ADO\Assessments\Code Challenge 7\Code Challenge 7\obj\Debug\Code Challenge 7.exe.config
