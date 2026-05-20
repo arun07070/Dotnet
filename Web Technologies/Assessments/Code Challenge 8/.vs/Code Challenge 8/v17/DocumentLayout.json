@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|c:\\dotnet\\web technologies\\assessments\\code challenge 8\\code challenge 8\\question8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|solutionrelative:code challenge 8\\question8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|c:\\dotnet\\web technologies\\assessments\\code challenge 8\\code challenge 8\\question5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|solutionrelative:code challenge 8\\question5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|c:\\dotnet\\web technologies\\assessments\\code challenge 8\\code challenge 8\\question6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|solutionrelative:code challenge 8\\question6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|c:\\dotnet\\web technologies\\assessments\\code challenge 8\\code challenge 8\\question7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|solutionrelative:code challenge 8\\question7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|c:\\dotnet\\web technologies\\assessments\\code challenge 8\\code challenge 8\\question4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|solutionrelative:code challenge 8\\question4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|c:\\dotnet\\web technologies\\assessments\\code challenge 8\\code challenge 8\\question3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|solutionrelative:code challenge 8\\question3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|c:\\dotnet\\web technologies\\assessments\\code challenge 8\\code challenge 8\\question2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|solutionrelative:code challenge 8\\question2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|c:\\dotnet\\web technologies\\assessments\\code challenge 8\\code challenge 8\\question1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64365C88-9900-4FF5-BACE-35563A34F5F3}|Code Challenge 8\\Code Challenge 8.csproj|solutionrelative:code challenge 8\\question1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question3.html",
+              "DocumentMoniker": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question3.html",
+              "RelativeDocumentMoniker": "Code Challenge 8\\Question3.html",
+              "ToolTip": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question3.html",
+              "RelativeToolTip": "Code Challenge 8\\Question3.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:07:06.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Question2.html",
+              "DocumentMoniker": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question2.html",
+              "RelativeDocumentMoniker": "Code Challenge 8\\Question2.html",
+              "ToolTip": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question2.html",
+              "RelativeToolTip": "Code Challenge 8\\Question2.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:06:47.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question4.html",
+              "DocumentMoniker": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question4.html",
+              "RelativeDocumentMoniker": "Code Challenge 8\\Question4.html",
+              "ToolTip": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question4.html",
+              "RelativeToolTip": "Code Challenge 8\\Question4.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:07:25.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question5.html",
+              "DocumentMoniker": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question5.html",
+              "RelativeDocumentMoniker": "Code Challenge 8\\Question5.html",
+              "ToolTip": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question5.html",
+              "RelativeToolTip": "Code Challenge 8\\Question5.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:07:46.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question6.html",
+              "DocumentMoniker": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question6.html",
+              "RelativeDocumentMoniker": "Code Challenge 8\\Question6.html",
+              "ToolTip": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question6.html",
+              "RelativeToolTip": "Code Challenge 8\\Question6.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:08:07.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question7.html",
+              "DocumentMoniker": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question7.html",
+              "RelativeDocumentMoniker": "Code Challenge 8\\Question7.html",
+              "ToolTip": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question7.html",
+              "RelativeToolTip": "Code Challenge 8\\Question7.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:08:34.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question8.html",
+              "DocumentMoniker": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question8.html",
+              "RelativeDocumentMoniker": "Code Challenge 8\\Question8.html",
+              "ToolTip": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question8.html",
+              "RelativeToolTip": "Code Challenge 8\\Question8.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:08:53.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question1.html",
+              "DocumentMoniker": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question1.html",
+              "RelativeDocumentMoniker": "Code Challenge 8\\Question1.html",
+              "ToolTip": "C:\\dotnet\\Web Technologies\\Assessments\\Code Challenge 8\\Code Challenge 8\\Question1.html",
+              "RelativeToolTip": "Code Challenge 8\\Question1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:06:14.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

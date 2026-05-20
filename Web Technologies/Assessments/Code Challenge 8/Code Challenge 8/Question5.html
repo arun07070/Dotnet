@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Child Selector</title>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function ()
+        {
+            $("div > h1").css("background-color", "yellow");
+        });
+    </script>
+</head>
+<body>
+    <div>
+        <h1>Heading 1</h1>
+        <h1>Heading 2</h1>
+    </div>
+    <h1>Outside Div</h1>
+</body>
+</html>

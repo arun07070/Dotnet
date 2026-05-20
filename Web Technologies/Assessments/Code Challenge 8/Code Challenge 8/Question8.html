@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Append Paragraph</title>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function ()
+        {
+            $("input").change(function ()
+            {
+                $("body").append("<p>Input field value changed</p>");
+            });
+        });
+    </script>
+</head>
+<body>
+    <input type="text" placeholder="Enter text" />
+</body>
+</html>
