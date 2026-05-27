@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\addeditmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\addeditmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\menulist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\menulist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\orderstats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\orderstats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\menudetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\menudetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|c:\\dotnet\\asp\\assessments\\code challenge 9\\code challenge 9\\addeditmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B1FB54-2B1F-48C4-8A20-F253677F865C}|Code Challenge 9\\Code Challenge 9.csproj|solutionrelative:code challenge 9\\addeditmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Site.Master",
+              "RelativeDocumentMoniker": "Code Challenge 9\\Site.Master",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Site.Master*",
+              "RelativeToolTip": "Code Challenge 9\\Site.Master*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T06:19:33.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuList.aspx.cs",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\MenuList.aspx.cs",
+              "RelativeDocumentMoniker": "Code Challenge 9\\MenuList.aspx.cs",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\MenuList.aspx.cs",
+              "RelativeToolTip": "Code Challenge 9\\MenuList.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:49:52.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Login.aspx",
+              "RelativeDocumentMoniker": "Code Challenge 9\\Login.aspx",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Login.aspx",
+              "RelativeToolTip": "Code Challenge 9\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:42:32.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Code Challenge 9\\Login.aspx.cs",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Login.aspx.cs",
+              "RelativeToolTip": "Code Challenge 9\\Login.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:44:33.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Logout.aspx",
+              "RelativeDocumentMoniker": "Code Challenge 9\\Logout.aspx",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Logout.aspx",
+              "RelativeToolTip": "Code Challenge 9\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:25:42.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEditMenu.aspx",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\AddEditMenu.aspx",
+              "RelativeDocumentMoniker": "Code Challenge 9\\AddEditMenu.aspx",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\AddEditMenu.aspx",
+              "RelativeToolTip": "Code Challenge 9\\AddEditMenu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:56:28.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuDetails.aspx",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\MenuDetails.aspx",
+              "RelativeDocumentMoniker": "Code Challenge 9\\MenuDetails.aspx",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\MenuDetails.aspx",
+              "RelativeToolTip": "Code Challenge 9\\MenuDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:04:45.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuList.aspx",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\MenuList.aspx",
+              "RelativeDocumentMoniker": "Code Challenge 9\\MenuList.aspx",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\MenuList.aspx",
+              "RelativeToolTip": "Code Challenge 9\\MenuList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:48:31.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuDetails.aspx.cs",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\MenuDetails.aspx.cs",
+              "RelativeDocumentMoniker": "Code Challenge 9\\MenuDetails.aspx.cs",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\MenuDetails.aspx.cs",
+              "RelativeToolTip": "Code Challenge 9\\MenuDetails.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:07:58.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderStats.aspx",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\OrderStats.aspx",
+              "RelativeDocumentMoniker": "Code Challenge 9\\OrderStats.aspx",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\OrderStats.aspx",
+              "RelativeToolTip": "Code Challenge 9\\OrderStats.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:22:59.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderStats.aspx.cs",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\OrderStats.aspx.cs",
+              "RelativeDocumentMoniker": "Code Challenge 9\\OrderStats.aspx.cs",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\OrderStats.aspx.cs",
+              "RelativeToolTip": "Code Challenge 9\\OrderStats.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:24:04.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Web.config",
+              "RelativeDocumentMoniker": "Code Challenge 9\\Web.config",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Web.config",
+              "RelativeToolTip": "Code Challenge 9\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-27T05:40:26.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Code Challenge 9\\Global.asax.cs",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Global.asax.cs",
+              "RelativeToolTip": "Code Challenge 9\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:36:57.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "Code Challenge 9\\Logout.aspx.cs",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Logout.aspx.cs",
+              "RelativeToolTip": "Code Challenge 9\\Logout.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:25:55.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddEditMenu.aspx.cs",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\AddEditMenu.aspx.cs",
+              "RelativeDocumentMoniker": "Code Challenge 9\\AddEditMenu.aspx.cs",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\AddEditMenu.aspx.cs",
+              "RelativeToolTip": "Code Challenge 9\\AddEditMenu.aspx.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwA4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:01:17.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Master.aspx",
+              "DocumentMoniker": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Master.aspx",
+              "RelativeDocumentMoniker": "Code Challenge 9\\Master.aspx",
+              "ToolTip": "C:\\dotnet\\ASP\\Assessments\\Code Challenge 9\\Code Challenge 9\\Master.aspx",
+              "RelativeToolTip": "Code Challenge 9\\Master.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:46:30.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
