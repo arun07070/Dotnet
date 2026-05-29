@@ -1,0 +1,50 @@
+﻿@model Assignment1.Models.Contact
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create Contact</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label>Id</label>
+
+        @Html.TextBoxFor(m => m.Id)
+
+        @Html.ValidationMessageFor(m => m.Id)
+    </div>
+
+    <br />
+
+    <div>
+        <label>First Name</label>
+
+        @Html.TextBoxFor(m => m.FirstName)
+    </div>
+
+    <br />
+
+    <div>
+        <label>Last Name</label>
+
+        @Html.TextBoxFor(m => m.LastName)
+    </div>
+
+    <br />
+
+    <div>
+        <label>Email</label>
+
+        @Html.TextBoxFor(m => m.Email)
+    </div>
+
+    <br />
+
+    <input type="submit" value="Save" />
+}
+
+<br />
+
+@Html.ActionLink("Back to List", "Index")
