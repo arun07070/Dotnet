@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet\\Mini Project\\Mini Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\modules\\bookingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\modules\\bookingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\menus\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\menus\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\dal\\cancellationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\dal\\cancellationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\dal\\bookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\dal\\bookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\bal\\bookingbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\bal\\bookingbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\modules\\trainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\modules\\trainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\modules\\reportmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\modules\\reportmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\modules\\registrationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\modules\\registrationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\modules\\loginmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\modules\\loginmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\modules\\cancellationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\modules\\cancellationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\models\\trains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\models\\trains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\models\\cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\models\\cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\menus\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\menus\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\menus\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\menus\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\dal\\traindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\dal\\traindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\dal\\reportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\dal\\reportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\bal\\userbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\bal\\userbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\bal\\trainbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\bal\\trainbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|c:\\dotnet\\mini project\\mini project\\mini project\\bal\\cancellationbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78631174-0FE5-4665-919C-B585ED0D7D13}|Mini Project\\Mini Project.csproj|solutionrelative:mini project\\bal\\cancellationbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\DAL\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Mini Project\\DAL\\DBHelper.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\DAL\\DBHelper.cs",
+              "RelativeToolTip": "Mini Project\\DAL\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:07:16.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CancellationDAL.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\DAL\\CancellationDAL.cs",
+              "RelativeDocumentMoniker": "Mini Project\\DAL\\CancellationDAL.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\DAL\\CancellationDAL.cs",
+              "RelativeToolTip": "Mini Project\\DAL\\CancellationDAL.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:07:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programs.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Menus\\Programs.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Menus\\Programs.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Menus\\Programs.cs",
+              "RelativeToolTip": "Mini Project\\Menus\\Programs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:09:02.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportModule.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Modules\\ReportModule.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Modules\\ReportModule.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Modules\\ReportModule.cs",
+              "RelativeToolTip": "Mini Project\\Modules\\ReportModule.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:12:03.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationModule.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Modules\\RegistrationModule.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Modules\\RegistrationModule.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Modules\\RegistrationModule.cs",
+              "RelativeToolTip": "Mini Project\\Modules\\RegistrationModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:11:51.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingModule.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Modules\\BookingModule.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Modules\\BookingModule.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Modules\\BookingModule.cs",
+              "RelativeToolTip": "Mini Project\\Modules\\BookingModule.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:11:00.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingDAL.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\DAL\\BookingDAL.cs",
+              "RelativeDocumentMoniker": "Mini Project\\DAL\\BookingDAL.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\DAL\\BookingDAL.cs",
+              "RelativeToolTip": "Mini Project\\DAL\\BookingDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:06:50.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingBAL.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\BAL\\BookingBAL.cs",
+              "RelativeDocumentMoniker": "Mini Project\\BAL\\BookingBAL.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\BAL\\BookingBAL.cs",
+              "RelativeToolTip": "Mini Project\\BAL\\BookingBAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:04:58.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrainModule.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Modules\\TrainModule.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Modules\\TrainModule.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Modules\\TrainModule.cs",
+              "RelativeToolTip": "Mini Project\\Modules\\TrainModule.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:12:14.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginModule.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Modules\\LoginModule.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Modules\\LoginModule.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Modules\\LoginModule.cs",
+              "RelativeToolTip": "Mini Project\\Modules\\LoginModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:11:31.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CancellationModule.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Modules\\CancellationModule.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Modules\\CancellationModule.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Modules\\CancellationModule.cs",
+              "RelativeToolTip": "Mini Project\\Modules\\CancellationModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:11:14.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Models\\User.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Models\\User.cs",
+              "RelativeToolTip": "Mini Project\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:10:28.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Trains.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Models\\Trains.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Models\\Trains.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Models\\Trains.cs",
+              "RelativeToolTip": "Mini Project\\Models\\Trains.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:10:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cancellation.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Models\\Cancellation.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Models\\Cancellation.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Models\\Cancellation.cs",
+              "RelativeToolTip": "Mini Project\\Models\\Cancellation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:10:09.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Models\\Booking.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Models\\Booking.cs",
+              "RelativeToolTip": "Mini Project\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:09:49.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserMenu.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Menus\\UserMenu.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Menus\\UserMenu.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Menus\\UserMenu.cs",
+              "RelativeToolTip": "Mini Project\\Menus\\UserMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:09:14.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Menus\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Menus\\MainMenu.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Menus\\MainMenu.cs",
+              "RelativeToolTip": "Mini Project\\Menus\\MainMenu.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:08:45.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Menus\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "Mini Project\\Menus\\AdminMenu.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\Menus\\AdminMenu.cs",
+              "RelativeToolTip": "Mini Project\\Menus\\AdminMenu.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:08:32.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\DAL\\UserDAL.cs",
+              "RelativeDocumentMoniker": "Mini Project\\DAL\\UserDAL.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\DAL\\UserDAL.cs",
+              "RelativeToolTip": "Mini Project\\DAL\\UserDAL.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:08:02.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TrainDAL.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\DAL\\TrainDAL.cs",
+              "RelativeDocumentMoniker": "Mini Project\\DAL\\TrainDAL.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\DAL\\TrainDAL.cs",
+              "RelativeToolTip": "Mini Project\\DAL\\TrainDAL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:07:51.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportDAL.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\DAL\\ReportDAL.cs",
+              "RelativeDocumentMoniker": "Mini Project\\DAL\\ReportDAL.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\DAL\\ReportDAL.cs",
+              "RelativeToolTip": "Mini Project\\DAL\\ReportDAL.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:07:33.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserBAL.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\BAL\\UserBAL.cs",
+              "RelativeDocumentMoniker": "Mini Project\\BAL\\UserBAL.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\BAL\\UserBAL.cs",
+              "RelativeToolTip": "Mini Project\\BAL\\UserBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:06:08.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TrainBAL.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\BAL\\TrainBAL.cs",
+              "RelativeDocumentMoniker": "Mini Project\\BAL\\TrainBAL.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\BAL\\TrainBAL.cs",
+              "RelativeToolTip": "Mini Project\\BAL\\TrainBAL.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:05:48.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CancellationBAL.cs",
+              "DocumentMoniker": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\BAL\\CancellationBAL.cs",
+              "RelativeDocumentMoniker": "Mini Project\\BAL\\CancellationBAL.cs",
+              "ToolTip": "C:\\dotnet\\Mini Project\\Mini Project\\Mini Project\\BAL\\CancellationBAL.cs",
+              "RelativeToolTip": "Mini Project\\BAL\\CancellationBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:05:23.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

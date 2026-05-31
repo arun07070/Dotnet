@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Mini_Project.Models
+{
+    internal class Booking
+    {
+        public int BookingId { get; set; }
+        public DateTime BookDate { get; set; }
+        public DateTime TravelDate { get; set; }
+        public int TrainNo { get; set; }
+        public string TravelClass { get; set; }
+        public int Passengers { get; set; }
+        public decimal Amount { get; set; }
+    }
+}

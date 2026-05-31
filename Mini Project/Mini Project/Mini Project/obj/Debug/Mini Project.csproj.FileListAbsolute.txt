@@ -1,0 +1,7 @@
+C:\dotnet\Mini Project\Mini Project\Mini Project\obj\Debug\Mini Project.csproj.AssemblyReference.cache
+C:\dotnet\Mini Project\Mini Project\Mini Project\obj\Debug\Mini Project.csproj.CoreCompileInputs.cache
+C:\dotnet\Mini Project\Mini Project\Mini Project\bin\Debug\Mini Project.exe.config
+C:\dotnet\Mini Project\Mini Project\Mini Project\bin\Debug\Mini Project.exe
+C:\dotnet\Mini Project\Mini Project\Mini Project\bin\Debug\Mini Project.pdb
+C:\dotnet\Mini Project\Mini Project\Mini Project\obj\Debug\Mini Project.exe
+C:\dotnet\Mini Project\Mini Project\Mini Project\obj\Debug\Mini Project.pdb
