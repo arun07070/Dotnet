@@ -1,0 +1,2 @@
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10 Q2\obj\Debug\Code Challenge 10 Q2.csproj.AssemblyReference.cache
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10 Q2\obj\Debug\Code Challenge 10 Q2.csproj.CoreCompileInputs.cache

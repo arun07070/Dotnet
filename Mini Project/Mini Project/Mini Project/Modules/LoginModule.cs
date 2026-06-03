@@ -1,27 +1,33 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Mini_Project.BAL;
 
 namespace Mini_Project.Modules
 {
     internal class LoginModule
     {
-        public bool AdminLogin()
+        UserBAL userBAL = new UserBAL();
+
+        public bool Login(string type)
         {
-            Console.Write("User Name : ");
-            string user = Console.ReadLine();
+            Console.WriteLine("\n--- LOGIN ---");
 
-            Console.Write("Password : ");
-            string pass = Console.ReadLine();
+            Console.Write("Enter Username: ");
+            string username = Console.ReadLine();
 
-            if (user == "admin" && pass == "admin")
+            Console.Write("Enter Password: ");
+            string password = Console.ReadLine();
+
+            bool result =
+                userBAL.Login(username, password, type);
+
+            if (result)
             {
+                Console.WriteLine("Login Successful");
                 return true;
             }
 
             Console.WriteLine("Invalid Login");
+
             return false;
         }
     }

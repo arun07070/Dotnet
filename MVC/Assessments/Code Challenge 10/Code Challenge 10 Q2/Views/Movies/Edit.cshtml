@@ -1,0 +1,22 @@
+﻿@model Code_Challenge_10_Q2.Models.Movie
+
+<h2>Edit Movie</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.Mid)
+
+    <p>Movie Name</p>
+    @Html.TextBoxFor(x => x.MovieName)
+
+    <p>Director Name</p>
+    @Html.TextBoxFor(x => x.DirectorName)
+
+    <p>Date Of Release</p>
+    @Html.TextBoxFor(x => x.DateOfRelease, new { type = "date" })
+
+    <br />
+    <br />
+
+    <input type="submit" value="Update" />
+}

@@ -1,0 +1,20 @@
+﻿@model Code_Challenge_10_Q2.Models.Movie
+
+<h2>Create Movie</h2>
+
+@using (Html.BeginForm())
+{
+    <p>Movie Name</p>
+    @Html.TextBoxFor(x => x.MovieName)
+
+    <p>Director Name</p>
+    @Html.TextBoxFor(x => x.DirectorName)
+
+    <p>Date Of Release</p>
+    @Html.TextBoxFor(x => x.DateOfRelease, new { type = "date" })
+
+    <br />
+    <br />
+
+    <input type="submit" value="Save" />
+}

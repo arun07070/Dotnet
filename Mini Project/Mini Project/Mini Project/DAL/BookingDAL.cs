@@ -87,5 +87,82 @@ namespace Mini_Project.DAL
 
             con.Close();
         }
+        public void ViewBookings()
+        {
+            SqlConnection con = db.GetConnection();
+
+            string query =
+            @"SELECT *
+      FROM BookingDetails";
+
+            SqlCommand cmd = new SqlCommand(query, con);
+
+            con.Open();
+
+            SqlDataReader dr = cmd.ExecuteReader();
+
+            Console.WriteLine();
+            Console.WriteLine("BOOKING DETAILS");
+            Console.WriteLine("------------------------------------------------------------");
+
+            while (dr.Read())
+            {
+                Console.WriteLine(
+                    dr["BookingId"] + "\t" +
+                    Convert.ToDateTime(dr["BookDate"]).ToShortDateString() + "\t" +
+                    Convert.ToDateTime(dr["TravelDate"]).ToShortDateString() + "\t" +
+                    dr["TrainNo"] + "\t" +
+                    dr["TravelClass"] + "\t" +
+                    dr["Passengers"] + "\t" +
+                    dr["Amount"]);
+            }
+
+            dr.Close();
+            con.Close();
+        }
+        public void ViewMyBookings(int trainNo)
+        {
+            SqlConnection con = db.GetConnection();
+
+            string query =
+            @"SELECT *
+      FROM BookingDetails
+      WHERE TrainNo=@TrainNo";
+
+            SqlCommand cmd = new SqlCommand(query, con);
+
+            cmd.Parameters.AddWithValue("@TrainNo", trainNo);
+
+            con.Open();
+
+            SqlDataReader dr = cmd.ExecuteReader();
+
+            Console.WriteLine();
+            Console.WriteLine("MY BOOKINGS");
+            Console.WriteLine("------------------------------------------------------------");
+
+            bool found = false;
+
+            while (dr.Read())
+            {
+                found = true;
+
+                Console.WriteLine(
+                    dr["BookingId"] + "\t" +
+                    Convert.ToDateTime(dr["TravelDate"]).ToShortDateString() + "\t" +
+                    dr["TrainNo"] + "\t" +
+                    dr["TravelClass"] + "\t" +
+                    dr["Passengers"] + "\t" +
+                    dr["Amount"]);
+            }
+
+            if (!found)
+            {
+                Console.WriteLine("No Booking Found");
+            }
+
+            dr.Close();
+            con.Close();
+        }
     }
 }

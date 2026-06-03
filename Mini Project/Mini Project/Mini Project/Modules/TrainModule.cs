@@ -57,5 +57,46 @@ namespace Mini_Project.Modules
 
             Console.WriteLine("Train Deleted Successfully");
         }
+        public void SearchTrain()
+        {
+            Console.Write("From Station : ");
+            string fromStation = Console.ReadLine();
+
+            Console.Write("To Station : ");
+            string toStation = Console.ReadLine();
+
+            bal.SearchTrain(fromStation, toStation);
+        }
+        public void EditTrain()
+        {
+            Trains train = new Trains();
+
+            Console.Write("Train No : ");
+            train.TrainNo = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Train Name : ");
+            train.TrainName = Console.ReadLine();
+
+            Console.Write("From Station : ");
+            train.FromStation = Console.ReadLine();
+
+            Console.Write("To Station : ");
+            train.ToStation = Console.ReadLine();
+
+            Console.Write("Travel Class : ");
+            train.TravelClass = Console.ReadLine();
+
+            Console.Write("Availability : ");
+            train.Availability = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Charges : ");
+            train.Charges = Convert.ToDecimal(Console.ReadLine());
+
+            bal.EditTrain(train);
+        }
+        public void DeleteTrain(int trainNo)
+        {
+            bal.DeleteTrain(trainNo);
+        }
     }
 }

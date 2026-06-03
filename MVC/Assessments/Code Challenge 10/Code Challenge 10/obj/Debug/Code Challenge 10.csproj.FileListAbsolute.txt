@@ -1,0 +1,83 @@
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\obj\Debug\Code Challenge 10.csproj.AssemblyReference.cache
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\obj\Debug\Code Challenge 10.csproj.CoreCompileInputs.cache
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\Code Challenge 10.dll.config
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\Code Challenge 10.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\Code Challenge 10.pdb
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\csc.exe
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\csc.exe.config
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\csc.rsp
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\csi.exe
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\csi.exe.config
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\csi.rsp
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\Microsoft.Managed.Core.targets
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.AppContext.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Collections.Immutable.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Console.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Globalization.Calendars.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.IO.Compression.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.IO.FileSystem.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Net.Http.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Net.Sockets.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Reflection.Metadata.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.ValueTuple.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Xml.XmlDocument.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Xml.XPath.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\vbc.exe
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\vbc.exe.config
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\vbc.rsp
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\VBCSCompiler.exe
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\roslyn\VBCSCompiler.exe.config
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\Antlr3.Runtime.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\EntityFramework.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\EntityFramework.SqlServer.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\Microsoft.Web.Infrastructure.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\Newtonsoft.Json.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.Helpers.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.Mvc.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.Optimization.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.Razor.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.WebPages.Deployment.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.WebPages.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.WebPages.Razor.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\WebGrease.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\EntityFramework.xml
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\EntityFramework.SqlServer.xml
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.Helpers.xml
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.Mvc.xml
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.Optimization.xml
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.Razor.xml
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.WebPages.xml
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.WebPages.Deployment.xml
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\System.Web.WebPages.Razor.xml
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\Newtonsoft.Json.xml
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\Antlr3.Runtime.pdb
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\obj\Debug\Code Cha.98478073.Up2Date
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\obj\Debug\Code Challenge 10.dll
+C:\dotnet\MVC\Assessments\Code Challenge 10\Code Challenge 10\obj\Debug\Code Challenge 10.pdb

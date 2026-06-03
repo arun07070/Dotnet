@@ -5,3 +5,4 @@ C:\dotnet\Mini Project\Mini Project\Mini Project\bin\Debug\Mini Project.exe
 C:\dotnet\Mini Project\Mini Project\Mini Project\bin\Debug\Mini Project.pdb
 C:\dotnet\Mini Project\Mini Project\Mini Project\obj\Debug\Mini Project.exe
 C:\dotnet\Mini Project\Mini Project\Mini Project\obj\Debug\Mini Project.pdb
+C:\dotnet\Mini Project\Mini Project\Mini Project\obj\Debug\Mini Project.exe.config

@@ -11,14 +11,16 @@ namespace Mini_Project.Modules
     {
         ReportDAL reportDAL = new ReportDAL();
 
-        public void TrainReport()
+        public void ShowReport()
         {
-            reportDAL.ShowTrainReport();
-        }
+            Console.WriteLine();
+            Console.WriteLine("===== REPORTS =====");
 
-        public void BookingReport()
-        {
-            reportDAL.ShowBookingReport();
+            reportDAL.TotalRevenue();
+
+            reportDAL.TotalBookings();
+
+            reportDAL.ActiveTrains();
         }
     }
 }

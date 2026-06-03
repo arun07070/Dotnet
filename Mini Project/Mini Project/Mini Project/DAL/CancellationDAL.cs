@@ -72,5 +72,35 @@ namespace Mini_Project.DAL
 
             con.Close();
         }
+        public void ViewCancellations()
+        {
+            SqlConnection con = db.GetConnection();
+
+            string query =
+            @"SELECT *
+      FROM CancellationDetails";
+
+            SqlCommand cmd = new SqlCommand(query, con);
+
+            con.Open();
+
+            SqlDataReader dr = cmd.ExecuteReader();
+
+            Console.WriteLine();
+            Console.WriteLine("CANCELLATION DETAILS");
+            Console.WriteLine("------------------------------------------------");
+
+            while (dr.Read())
+            {
+                Console.WriteLine(
+                    dr["CId"] + "\t" +
+                    dr["BookingId"] + "\t" +
+                    dr["NoTickets"] + "\t" +
+                    dr["RefundAmount"]);
+            }
+
+            dr.Close();
+            con.Close();
+        }
     }
 }

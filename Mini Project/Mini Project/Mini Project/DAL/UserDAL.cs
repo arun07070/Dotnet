@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data.SqlClient;
 using Mini_Project.Models;
 
@@ -12,27 +8,53 @@ namespace Mini_Project.DAL
     {
         DBHelper db = new DBHelper();
 
-        public bool Register(User user)
+        public bool Login(string username, string password, string userType)
         {
             SqlConnection con = db.GetConnection();
 
             string query =
-            @"INSERT INTO Users(UserName,Password,UserType)
-              VALUES(@u,@p,@t)";
+            @"SELECT COUNT(*)
+              FROM Users
+              WHERE UserName=@UserName
+              AND Password=@Password
+              AND UserType=@UserType";
 
             SqlCommand cmd = new SqlCommand(query, con);
 
-            cmd.Parameters.AddWithValue("@u", user.UserName);
-            cmd.Parameters.AddWithValue("@p", user.Password);
-            cmd.Parameters.AddWithValue("@t", user.UserType);
+            cmd.Parameters.AddWithValue("@UserName", username);
+            cmd.Parameters.AddWithValue("@Password", password);
+            cmd.Parameters.AddWithValue("@UserType", userType);
 
             con.Open();
 
-            int rows = cmd.ExecuteNonQuery();
+            int count = Convert.ToInt32(cmd.ExecuteScalar());
 
             con.Close();
 
-            return rows > 0;
+            return count > 0;
+        }
+
+        public void Register(User user)
+        {
+            SqlConnection con = db.GetConnection();
+
+            string query =
+            @"INSERT INTO Users
+            (UserName,Password,UserType)
+            VALUES
+            (@UserName,@Password,@UserType)";
+
+            SqlCommand cmd = new SqlCommand(query, con);
+
+            cmd.Parameters.AddWithValue("@UserName", user.UserName);
+            cmd.Parameters.AddWithValue("@Password", user.Password);
+            cmd.Parameters.AddWithValue("@UserType", user.UserType);
+
+            con.Open();
+
+            cmd.ExecuteNonQuery();
+
+            con.Close();
         }
     }
 }

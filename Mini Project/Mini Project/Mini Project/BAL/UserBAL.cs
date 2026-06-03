@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Mini_Project.DAL;
 using Mini_Project.Models;
 
@@ -12,9 +8,14 @@ namespace Mini_Project.BAL
     {
         UserDAL userDAL = new UserDAL();
 
-        public bool Register(User user)
+        public bool Login(string username, string password, string userType)
         {
-            return userDAL.Register(user);
+            return userDAL.Login(username, password, userType);
+        }
+
+        public void Register(User user)
+        {
+            userDAL.Register(user);
         }
     }
 }

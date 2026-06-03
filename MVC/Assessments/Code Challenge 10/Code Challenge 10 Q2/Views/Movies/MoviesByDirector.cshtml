@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Code_Challenge_10_Q2.Models.Movie>
+
+<h2>Search Movies By Director</h2>
+
+@using (Html.BeginForm())
+{
+    <input type="text" name="directorName" />
+    <input type="submit" value="Search" />
+}
+
+@if (Model != null)
+{
+    <table border="1">
+        <tr>
+            <th>Movie</th>
+            <th>Release Date</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MovieName</td>
+                <td>@item.DateOfRelease.ToShortDateString()</td>
+            </tr>
+        }
+    </table>
+}

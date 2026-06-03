@@ -26,5 +26,18 @@ namespace Mini_Project.Modules
 
             bal.BookTicket(booking);
         }
+        public void ViewBookings()
+        {
+            bal.ViewBookings();
+        }
+        public void ViewMyBookings()
+        {
+            Console.Write("Enter Train No : ");
+
+            int trainNo =
+                Convert.ToInt32(Console.ReadLine());
+
+            bal.ViewMyBookings(trainNo);
+        }
     }
 }

@@ -11,20 +11,25 @@ namespace Mini_Project.BAL
     internal class TrainBAL
     {
         TrainDAL trainDAL = new TrainDAL();
-
         public void AddTrain(Trains train)
         {
             trainDAL.AddTrain(train);
         }
-
         public void ViewTrains()
         {
             trainDAL.ViewTrains();
         }
-
         public void DeleteTrain(int trainNo)
         {
             trainDAL.DeleteTrain(trainNo);
+        }
+        public void EditTrain(Trains train)
+        {
+            trainDAL.EditTrain(train);
+        }
+        public void SearchTrain(string fromStation, string toStation)
+        {
+            trainDAL.SearchTrain(fromStation, toStation);
         }
     }
 }

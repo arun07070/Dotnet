@@ -11,55 +11,66 @@ namespace Mini_Project.DAL
     {
         DBHelper db = new DBHelper();
 
-        public void ShowTrainReport()
+        public void TotalRevenue()
         {
             SqlConnection con = db.GetConnection();
 
-            string query = "SELECT * FROM TrainDetails WHERE IsDeleted=0";
+            string query =
+            @"SELECT ISNULL(SUM(Amount),0)
+              FROM BookingDetails";
 
             SqlCommand cmd = new SqlCommand(query, con);
 
             con.Open();
 
-            SqlDataReader dr = cmd.ExecuteReader();
+            decimal revenue =
+                Convert.ToDecimal(cmd.ExecuteScalar());
 
-            Console.WriteLine("\nTRAIN REPORT");
-
-            while (dr.Read())
-            {
-                Console.WriteLine(
-                    dr["TrainNo"] + "\t" +
-                    dr["TrainName"] + "\t" +
-                    dr["FromStation"] + "\t" +
-                    dr["ToStation"] + "\t" +
-                    dr["Availability"]);
-            }
+            Console.WriteLine();
+            Console.WriteLine("Total Revenue : " + revenue);
 
             con.Close();
         }
 
-        public void ShowBookingReport()
+        public void TotalBookings()
         {
             SqlConnection con = db.GetConnection();
 
-            string query = "SELECT * FROM BookingDetails";
+            string query =
+            @"SELECT COUNT(*)
+              FROM BookingDetails";
 
             SqlCommand cmd = new SqlCommand(query, con);
 
             con.Open();
 
-            SqlDataReader dr = cmd.ExecuteReader();
+            int bookings =
+                Convert.ToInt32(cmd.ExecuteScalar());
 
-            Console.WriteLine("\nBOOKING REPORT");
+            Console.WriteLine();
+            Console.WriteLine("Total Bookings : " + bookings);
 
-            while (dr.Read())
-            {
-                Console.WriteLine(
-                    dr["BookingId"] + "\t" +
-                    dr["TrainNo"] + "\t" +
-                    dr["Passengers"] + "\t" +
-                    dr["Amount"]);
-            }
+            con.Close();
+        }
+
+        public void ActiveTrains()
+        {
+            SqlConnection con = db.GetConnection();
+
+            string query =
+            @"SELECT COUNT(*)
+              FROM TrainDetails
+              WHERE IsDeleted=0";
+
+            SqlCommand cmd = new SqlCommand(query, con);
+
+            con.Open();
+
+            int trains =
+                Convert.ToInt32(cmd.ExecuteScalar());
+
+            Console.WriteLine();
+            Console.WriteLine("Active Trains : " + trains);
 
             con.Close();
         }

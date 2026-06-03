@@ -14,5 +14,9 @@ namespace Mini_Project.Modules
 
             bal.CancelTicket(bookingId);
         }
+        public void ViewCancellations()
+        {
+            bal.ViewCancellations();
+        }
     }
 }

@@ -129,26 +129,36 @@ namespace Mini_Project.DAL
             con.Close();
         }
 
-        public void SearchTrain(int trainNo)
+        public void SearchTrain(string fromStation, string toStation)
         {
             SqlConnection con = db.GetConnection();
 
             string query =
-            @"SELECT * FROM TrainDetails
-              WHERE TrainNo=@TrainNo
-              AND IsDeleted=0";
+            @"SELECT *
+      FROM TrainDetails
+      WHERE FromStation=@FromStation
+      AND ToStation=@ToStation
+      AND IsDeleted=0";
 
-            SqlCommand cmd =
-            new SqlCommand(query, con);
+            SqlCommand cmd = new SqlCommand(query, con);
 
-            cmd.Parameters.AddWithValue("@TrainNo", trainNo);
+            cmd.Parameters.AddWithValue("@FromStation", fromStation);
+            cmd.Parameters.AddWithValue("@ToStation", toStation);
 
             con.Open();
 
             SqlDataReader dr = cmd.ExecuteReader();
 
-            if (dr.Read())
+            Console.WriteLine();
+            Console.WriteLine("TRAIN DETAILS");
+            Console.WriteLine("------------------------------------------------------------");
+
+            bool found = false;
+
+            while (dr.Read())
             {
+                found = true;
+
                 Console.WriteLine(
                     dr["TrainNo"] + "\t" +
                     dr["TrainName"] + "\t" +
@@ -158,12 +168,51 @@ namespace Mini_Project.DAL
                     dr["Availability"] + "\t" +
                     dr["Charges"]);
             }
+
+            if (!found)
+            {
+                Console.WriteLine("No Trains Found");
+            }
+            dr.Close();
+            con.Close();
+        }
+        public void EditTrain(Trains train)
+        {
+            SqlConnection con = db.GetConnection();
+
+            string query =
+            @"UPDATE TrainDetails
+      SET TrainName=@TrainName,
+          FromStation=@FromStation,
+          ToStation=@ToStation,
+          TravelClass=@TravelClass,
+          Availability=@Availability,
+          Charges=@Charges
+      WHERE TrainNo=@TrainNo";
+
+            SqlCommand cmd = new SqlCommand(query, con);
+
+            cmd.Parameters.AddWithValue("@TrainNo", train.TrainNo);
+            cmd.Parameters.AddWithValue("@TrainName", train.TrainName);
+            cmd.Parameters.AddWithValue("@FromStation", train.FromStation);
+            cmd.Parameters.AddWithValue("@ToStation", train.ToStation);
+            cmd.Parameters.AddWithValue("@TravelClass", train.TravelClass);
+            cmd.Parameters.AddWithValue("@Availability", train.Availability);
+            cmd.Parameters.AddWithValue("@Charges", train.Charges);
+
+            con.Open();
+
+            int rows = cmd.ExecuteNonQuery();
+
+            if (rows > 0)
+            {
+                Console.WriteLine("Train Updated Successfully");
+            }
             else
             {
                 Console.WriteLine("Train Not Found");
             }
 
-            dr.Close();
             con.Close();
         }
     }

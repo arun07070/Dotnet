@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Mini_Project.Models;
 using Mini_Project.BAL;
 
@@ -14,22 +10,21 @@ namespace Mini_Project.Modules
 
         public void Register()
         {
+            Console.WriteLine("\n--- REGISTRATION ---");
+
             User user = new User();
 
-            Console.Write("User Name : ");
+            Console.Write("Name: ");
             user.UserName = Console.ReadLine();
 
-            Console.Write("Password : ");
+            Console.Write("Password: ");
             user.Password = Console.ReadLine();
 
             user.UserType = "User";
 
-            bool result = userBAL.Register(user);
+            userBAL.Register(user);
 
-            if (result)
-                Console.WriteLine("Registration Successful");
-            else
-                Console.WriteLine("Registration Failed");
+            Console.WriteLine("User Registered Successfully");
         }
     }
 }

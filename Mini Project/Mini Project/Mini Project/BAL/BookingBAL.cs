@@ -22,5 +22,14 @@ namespace Mini_Project.BAL
 
             bookingDAL.BookTicket(booking);
         }
+        public void ViewBookings()
+        {
+            bookingDAL.ViewBookings();
+        }
+
+        public void ViewMyBookings(int trainNo)
+        {
+            bookingDAL.ViewMyBookings(trainNo);
+        }
     }
 }
